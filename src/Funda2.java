@@ -4,9 +4,9 @@ import java.util.Arrays;
 
 public class Funda2
 {
-    private String name;
+    private String name;//the name of the string
 
-    public String getName() {
+    public String getName() {//get method
         return name;
     }
 
