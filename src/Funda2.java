@@ -13,7 +13,7 @@ public class Funda2
     public void setName(String _name) {
         name = _name;
     }
-    
+  
     public static void main (String[]args){
      String myArray[] = new String [4];
      myArray[0]= "pk";
